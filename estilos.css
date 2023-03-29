@@ -60,7 +60,7 @@ body {
 
 .header {
     height: 60vh !important;
-    background: url(img/fondo.jpg) no-repeat center;
+    background: url(fondo.jpg) no-repeat center;
     background-size: cover;
 }
 
